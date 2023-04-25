@@ -6,6 +6,7 @@ I've been interested in various topics, from NLP to image processing. These are 
 ## Competitions I participated as listed : 
 
 | Organization | Competition | Topic | Data Type | Method |
+|--|--|--|--|--|
 | Kaggle | some wordy text | $1600 |   |   |   |
 | Kaggle | centered        |   $12 |   |   |   |
 | Kaggle | are neat        |    $1 |   |   |   |
