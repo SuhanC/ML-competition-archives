@@ -7,6 +7,6 @@ I've been interested in various topics, from NLP to image processing. These are 
 
 | Organization | Competition | Topic | Data Type | Method |
 |--|--|--|--|--|
-| Kaggle | some wordy text | $1600 |   |   |   |
+| Kaggle | Novozymes Enzyme Stability Prediction | Protein Tm prediction | Protein sequence + physiochemical features  | Protein embedding + CNN |
 | Kaggle | centered        |   $12 |   |   |   |
 | Kaggle | are neat        |    $1 |   |   |   |
